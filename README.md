@@ -3,6 +3,10 @@
   <p>learnforsyth.org, the home of free tutoring.</p>
 </h1>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/learnforsyth/website?style=flat-square)
+![GitHub](https://img.shields.io/github/license/learnforsyth/website?style=flat-square)
+<a href="https://www.instagram.com/learnfoco/">![Instagram page](https://img.shields.io/badge/instagram-Follow-success?style=flat-square)</a>
+
 This is the repository for the [learnforsyth.org](https://learnforsyth.org) website, a free tutoring non-profit centered around offering easily accessible peer-to-peer tutoring. The website allows students to register as LearnForsyth students who recieve free tutoring from our amazing volounteer team. Additionally, this organization is founded by Ayush Gundawar, a SFHS Students who serves as the CEO and founder of LearnForsyth.
 
 [learnforsyth.org](https://learnforsyth.org) is improved and changed over time through the contributions of community members who submit content, give feedback, or volunteer their time to managing its evolution. If you’re interested in helping to improve [learnforsyth.org](https://learnforsyth.org), please make a pull request. Guidelines for PRs will be released shortly.
