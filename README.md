@@ -19,6 +19,9 @@ If you're interested in recieving free tutoring after reading the blurb above, w
 # How to contribute
 To contribute to this project, clone this repo and make a PR request. Contributions of any kind are greatly welcomed and appreciated!
 
+# Important Note
+It is generally best practice to include CSS, JS, and HTML files seperately in a project. This is a practice that will always work well. However, in this repository, all site data is handled through HTML files only. This is due to the way the webserver handles updates in CSS and JS files. We are currently in a migration towards seperated files, though that is not a priority right now.
+
 # Update Process
 ### Submit an issue
 
