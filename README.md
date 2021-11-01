@@ -74,4 +74,4 @@ $ git push
 ```
 
 # Thank you!
-Thank you to everyone that has assisted with the journey of LearnForsyth. It has been an amazing year and we could not have done it without our contributors - from our amazing, dedicated volounteer tutors to our extremely involved and hard-working interns. We could have never reached the goal of **300**+ students tutored without their help. Thank you.
+Thank you to everyone that has assisted with the journey of LearnForsyth. It has been an amazing year and we could not have done it without our contributors - from our amazing, dedicated volounteer tutors to our extremely involved and hard-working interns. We could have never reached the goal of **350**+ students tutored without their help. Thank you.
